@@ -80,3 +80,11 @@ Hosting or know of a conference not included? Submit a PR!
 - [SmashingConf San Francisco 2016](http://smashingconf.com/sf-2016/) (April 5–6, 2016) San Francisco, CA, USA
 - [Ancient City Ruby 2016](http://www.ancientcityruby.com/) (April 6–8, 2016) St. Augustine, FL, USA
 - [Le Web a Quebec 2016 — 6e edition](http://www.webaquebec.org/) (April 6–8, 2016) Quebec, Canada
+
+
+
+# Archives
+
+## Recorded conferences
+
+- [Curated list of recorded conferences](https://github.com/dmytroyarmak/frontend-dev-resources#conferences)
