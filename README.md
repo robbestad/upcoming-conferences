@@ -66,4 +66,17 @@ Hosting or know of a conference not included? Submit a PR!
 - [One Day of Internet of Things](http://internetofthingsday.com/) (March 17) Oslo, Norway
 - [MEX/16](http://pmn.co.uk/mex/) (March 17–18, 2016) London, UK
 - [Mdevcon 2016](http://mdevcon.com/) (March 17–18, 2016) Amsterdam, Netherlands
+- [DevExperience](http://devexperience.ro/) (March 25, 2016) Iasi, Romania
+- [EmberConf 2016](http://emberconf.com/) (March 28–30, 2016) Portland, OR, USA
+- [QCon SP 2016](http://qconsp.com/) (March 28–April 1, 2016) São Paolo, Brazil
+- [UX in the City: Oxford 2016](http://uxinthecity.net/2016/oxford/) (March 31–April 1, 2016) Oxford, UK
 
+### April
+
+- [Fronteers Spring Thing 2016](https://fronteers.nl/spring) (April 1, 2016) Amsterdam, Netherlands
+- [Space City JS 2016](http://spacecity.codes/) (April 2, 2016) Houston, TX, USA
+- [MobCon Europe 2016](http://mobcon.com/mobcon-europe/) (April 4, 2016) Sofia, Bulgaria
+- [An Event Apart 2016: Seattle](http://aneventapart.com/event/seattle-2016) (April 4–6, 2016) Seattle, WA, USA
+- [SmashingConf San Francisco 2016](http://smashingconf.com/sf-2016/) (April 5–6, 2016) San Francisco, CA, USA
+- [Ancient City Ruby 2016](http://www.ancientcityruby.com/) (April 6–8, 2016) St. Augustine, FL, USA
+- [Le Web a Quebec 2016 — 6e edition](http://www.webaquebec.org/) (April 6–8, 2016) Quebec, Canada
