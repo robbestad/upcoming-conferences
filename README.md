@@ -44,5 +44,10 @@ Hosting or know of a conference not included? Submit a PR!
 - [2016 International Conference on Design Principles and Practices – A Common Ground Conference](http://designprinciplesandpractices.com/the-conference/) (February 25–26, 2016) Rio de Janeiro, Brazil
 - [Typoday 2016](http://www.typoday.in/) (February 25–27, 2016) Bangalore, India
 - [VOXXED Days Vienna 2016](https://voxxeddays.com/vienna16/) (February 29–March 1, 2016) Vienna, Austria
+- [Planning for a Higher Ed Website Redesign](http://www.academicimpressions.com/conference/planning-higher-ed-website-redesign) (February 29–March 2, 2016) Cincinnati, OH, USA
 
+### March
 
+- [Interaction16](http://interaction16.ixda.org/) (March 1–4, 2016) Helsinki, Finland
+- [Riga Dev Day 2016](http://www.rigadevday.lv/) (March 2–4, 2016) Riga, Latvia
+- [Voxxed Days Zurich](https://voxxeddays.com/zurich16/) (March 3, 2016) Zurich, Switzerland
