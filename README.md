@@ -1,5 +1,8 @@
-# upcoming-conferences
+# Upcoming Conferences
+
 List of upcoming developer conferences
+
+Hosting or know of a conference not included? Submit a PR!
 
 ## 2016
 
