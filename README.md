@@ -51,3 +51,19 @@ Hosting or know of a conference not included? Submit a PR!
 - [Interaction16](http://interaction16.ixda.org/) (March 1–4, 2016) Helsinki, Finland
 - [Riga Dev Day 2016](http://www.rigadevday.lv/) (March 2–4, 2016) Riga, Latvia
 - [Voxxed Days Zurich](https://voxxeddays.com/zurich16/) (March 3, 2016) Zurich, Switzerland
+- [MIDWEST PHP 2016](http://2016.midwestphp.org/) (March 4–5, 2016) Minneapolis, MN, USA
+- [QCon London 2016](http://qconlondon.com/) (March 7–11, 2016) London, UK
+- [JDays 2016](http://www.jdays.se/) (March 8–9, 2016) Gothenburg, Sweden
+- [O’Reilly Fluent Conference 2016](http://conferences.oreilly.com/fluent/javascript-html-us) (March 8–10, 2016) San Francisco, CA
+- [Frontier Conference 2016](https://www.frontierconf.com/) (March 11, 2016) London, UK
+- [RWDevCon 2016](http://www.rwdevcon.com/) (March 11–12, 2016) Alexandria, VA, USA
+- [UXHK 2016](http://www.uxhongkong.com/) (March 11–12, 2016) Hong Kong, China
+- [SXSW 2016](http://www.sxsw.com/) (March 11–20, 2016) Austin, TX, USA
+- [An Event Apart 2016: Nashville](http://aneventapart.com/event/nashville-2016) (March 14–16, 2016) Nashville, TN, USA
+- [MobileTech Conference Spring 2016](https://mobiletechcon.de/) (March 14–17, 2016) Munich, Germany
+- [SmashingConf Oxford 2016](http://www.smashingconf.com/) (March 15–16, 2016) Oxford, UK
+- [DIBI 2016](http://dibiconference.com/) (March 17–18, 2016) Edinburgh, UK
+- [One Day of Internet of Things](http://internetofthingsday.com/) (March 17) Oslo, Norway
+- [MEX/16](http://pmn.co.uk/mex/) (March 17–18, 2016) London, UK
+- [Mdevcon 2016](http://mdevcon.com/) (March 17–18, 2016) Amsterdam, Netherlands
+
