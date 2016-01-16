@@ -34,6 +34,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [Open Set Soul Edition 2016](http://www.openset.nl/oskorea/opensetdutchdesignseoulsessions_en.html) (February 15–27, 2016) Seoul, South Korea
 - [Mobile Growth Summit 2016](http://bit.ly/MobileGrowthSummit16) (February 17–18, 2016) San Francisco, CA, USA
 - [Mobile Trends Conference 2016](http://2016.mobiletrends.pl/en/) (February 17–19, 2016) Krakow, Poland
+- [NG-NL 2016](http://www.ng-nl.org/) (February 18, 2016) Amsterdam, Netherlands
 - [World IA Day 2016](http://www.2016.worldiaday.org/) (February 20, 2016) At locations on every continent
 - [Bulgaria Web Summit 2016](http://bulgariawebsummit.com/) (February 20, 2016) Sofia, Bulgaria
 - [The Rolling Scopes Conference](http://2016.conf.rollingscopes.com/) (February 20–21, 2016) Minsk, Belarus
