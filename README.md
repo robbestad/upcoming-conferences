@@ -83,6 +83,8 @@ Hosting or know of a conference not included? Submit a PR!
 - [Le Web a Quebec 2016 — 6e edition](http://www.webaquebec.org/) (April 6–8, 2016) Quebec, Canada
 - [OpenVis](https://openvisconf.com/) (April 25-26, 2016) Boston, MA, USA
 
+### May
+- [Frontend United Ghent 2016](http://frontendunited.org/) (May 27-28, 2016) Ghent, Belgium
 
 # Archives
 
