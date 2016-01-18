@@ -21,6 +21,7 @@ Hosting or know of a conference not included? Submit a PR!
 
 - [Agile Content Conf 2016](https://2016.agilecontentconf.com/) (February 1–2, 2016) London, UK
 - [Topconf Linz 2016](http://topconf.com/linz-2016/) (February 2–3, 2016) Linz, Austria
+- [microXchg 2016](http://microxchg.io/2016/) (February 4-5, 2016) Berlin, Germany
 - [2016 UXDEVSummit Conference](http://uxdsummit.com/) (February 4–6, 2016) Fort Lauderdale, FL, USA
 - [Owner Summit](http://bureauofdigital.com/summits/owner/2016/) (February 8–9, 2016) Atlanta, GA, USA
 - [JFokus 2016](http://www.jfokus.se/jfokus/) (February 8–10, 2016) Stockholm, Sweden
