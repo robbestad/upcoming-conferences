@@ -109,6 +109,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [UX London 2016](http://2016.uxlondon.com/) (May 18–20, 2016) London, UK
 - [Front-Trends 2016](http://front-trends.com/) (May 18–20, 2016) Warsaw, Poland
 - [Port 80](http://port80events.co.uk/) (May 20, 2016) Newport, UK
+- [self.conference](http://selfconference.org/) (May 20-21, 2016) Detroit, USA
 - [GOTO Chicago 2016](http://gotocon.com/chicago-2016) (May 23–26, 2016) Chicago, IL, USA
 - [UXLx – User Experience Lisbon 2016](https://www.ux-lx.com/) (May 24–27, 2016) Lisbon, Portugal
 - [UpFront 2016](http://upfrontconf.com/) (May 27, 2016) Manchester, UK
