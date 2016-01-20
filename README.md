@@ -135,6 +135,10 @@ Hosting or know of a conference not included? Submit a PR!
 - [SmashingConf New York 2016](http://smashingconf.com/) (June 14–15, 2016) New York City, NY, USA
 - [FrontEnd Design Conference 2016](http://frontenddesignconference.com/) (June 15–17, 2016) St. Petersburg, FL, USA
 
+## August
+
+- [BrazilJS Conference 2016](http://braziljs.com.br/) (August 19–20, 2016) Porto Alegre, RS, Brazilaugus
+
 # Archives
 
 ## Recorded conferences
