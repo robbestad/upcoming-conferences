@@ -77,6 +77,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [Fronteers Spring Thing 2016](https://fronteers.nl/spring) (April 1, 2016) Amsterdam, Netherlands
 - [Space City JS 2016](http://spacecity.codes/) (April 2, 2016) Houston, TX, USA
 - [MobCon Europe 2016](http://mobcon.com/mobcon-europe/) (April 4, 2016) Sofia, Bulgaria
+- [Microsoft Edge Web Summit](https://blogs.windows.com/msedgedev/2016/01/19/save-the-date-edge-summit-2016/) (April 4, 2016) San Francisco, USA
 - [An Event Apart 2016: Seattle](http://aneventapart.com/event/seattle-2016) (April 4–6, 2016) Seattle, WA, USA
 - [SmashingConf San Francisco 2016](http://smashingconf.com/sf-2016/) (April 5–6, 2016) San Francisco, CA, USA
 - [Ancient City Ruby 2016](http://www.ancientcityruby.com/) (April 6–8, 2016) St. Augustine, FL, USA
