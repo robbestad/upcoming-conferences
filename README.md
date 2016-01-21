@@ -32,6 +32,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [FITC Tokyo 2016](http://fitc.ca/) (February 13–14, 2016) Tokyo, Japan
 - [DevNexus 2016](http://www.devnexus.com/) (February 15–17, 2016) Atlanta, GA, USA
 - [Open Set Soul Edition 2016](http://www.openset.nl/oskorea/opensetdutchdesignseoulsessions_en.html) (February 15–27, 2016) Seoul, South Korea
+- [HackCon](https://hackcon.org/) (February 17-18, 2016) Oslo, Norway
 - [Mobile Growth Summit 2016](http://bit.ly/MobileGrowthSummit16) (February 17–18, 2016) San Francisco, CA, USA
 - [Mobile Trends Conference 2016](http://2016.mobiletrends.pl/en/) (February 17–19, 2016) Krakow, Poland
 - [NG-NL 2016](http://www.ng-nl.org/) (February 18, 2016) Amsterdam, Netherlands
