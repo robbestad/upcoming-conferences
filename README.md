@@ -26,6 +26,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [JFokus 2016](http://www.jfokus.se/jfokus/) (February 8–10, 2016) Stockholm, Sweden
 - [Forward 4 – Web Technology Summit](http://forwardjs.com/summit) (February 8–13, 2016) San Francisco, CA, USA 
 - [SustainableUX](http://sustainableux.com/) (February 9, 2016) Online
+- [Barcelona JS february meetup](http://barcelonajs.org/) (February 10, 2016) Barcelona, Spain
 - [ConveyUX 2016](http://conveyux.com/) (February 9–11, 2016) Seattle, WA, USA
 - [Webstock 2016](http://www.webstock.org.nz/16/) (February 9–12, 2016) Wellington, New Zealand
 - [Lift Conference 2016](http://liftconference.com/lift16) (February 10–12, 2016) Geneva, Switzerland
@@ -84,6 +85,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [SmashingConf San Francisco 2016](http://smashingconf.com/sf-2016/) (April 5–6, 2016) San Francisco, CA, USA
 - [Ancient City Ruby 2016](http://www.ancientcityruby.com/) (April 6–8, 2016) St. Augustine, FL, USA
 - [Le Web a Quebec 2016 — 6e edition](http://www.webaquebec.org/) (April 6–8, 2016) Quebec, Canada
+- [Generate New York](http://www.generateconf.com/new-york-2016) (April 22, 2016) New York, USA
 - [OpenVis](https://openvisconf.com/) (April 25-26, 2016) Boston, MA, USA
 - [Future of Web Design London 2016](https://futureofwebdesign.com/london-2016/) (April 25–27, 2016) London, UK
 - [M2M World Congress 2016](http://www.m2mconference.com/) (April 26–27, 2016) London, UK
