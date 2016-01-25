@@ -140,7 +140,7 @@ Hosting or know of a conference not included? Submit a PR!
 
 ## August
 
-- [BrazilJS Conference 2016](http://braziljs.com.br/) (August 19–20, 2016) Porto Alegre, RS, Brazilaugus
+- [BrazilJS Conference 2016](http://braziljs.com.br/) (August 19–20, 2016) Porto Alegre, RS, Brazil
 
 # Archives
 
