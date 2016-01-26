@@ -8,8 +8,6 @@ Hosting or know of a conference not included? Submit a PR!
 
 ### January 
 
-- [O’Reilly Design Conference](http://oreil.ly/1NRw8kd) (January 19–22, 2016) San Francisco, CA, USA
-- [SVG Summit 2016](http://environmentsforhumans.com/2016/svg-summit/) (January 21, 2016) Online
 - [LAUNCH Consumer IoT Summit](http://launch.brinc.io/) (January 27–28, 2016 - Hong Kong) China
 - [Awwwards Conference – Amsterdam 2016](http://conference.awwwards.com/amsterdam-2016/) (January 27–29, 2016) Amsterdam, Netherlands
 - [A Day of REST](http://feelingrestful.com/) (January 28, 2016) London, UK
@@ -107,6 +105,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [Front 2016](http://www.frontutah.com/) (May 12–13, 2016) Salt Lake City, UT, USA
 - [JSConf Budapest 2016](http://jsconfbp.com/) (May 12–13, 2016) Budapest, Hungary
 - [TypoTalks Berlin 2016](http://typotalks.com/berlin/) (May 12–14, 2016) Berlin, Germany
+- [Revolution Conf](http://revolutionconf.com/) (May 13 2016) Virginia Beach, USA
 - [phpDay 2016](http://2016.phpday.it/) (May 13–14, 2016) Verona, Italy
 - [An Event Apart 2016: Boston](http://aneventapart.com/event/boston-2016) (May 16–18, 2016) Boston, MA, USA
 - [SDD 2016](http://www.sddconf.com/) (May 16–20, 2016) London, UK
