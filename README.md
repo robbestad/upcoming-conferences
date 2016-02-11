@@ -6,22 +6,8 @@ Hosting or know of a conference not included? Submit a PR!
 
 ## 2016
 
-### January 
-
-- [LAUNCH Consumer IoT Summit](http://launch.brinc.io/) (January 27–28, 2016 - Hong Kong) China
-- [Awwwards Conference – Amsterdam 2016](http://conference.awwwards.com/amsterdam-2016/) (January 27–29, 2016) Amsterdam, Netherlands
-- [A Day of REST](http://feelingrestful.com/) (January 28, 2016) London, UK
-- [VOXXED Days Berlin 2016](https://voxxeddays.com/berlin16/) (January 28–29, 2016) Berlin, Germany
-- [PhoneGap Day US 2016](http://pgday.phonegap.com/) (January 28–29, 2016) Lehi, UT, USA
-
 ### February
 
-- [Agile Content Conf 2016](https://2016.agilecontentconf.com/) (February 1–2, 2016) London, UK
-- [Topconf Linz 2016](http://topconf.com/linz-2016/) (February 2–3, 2016) Linz, Austria
-- [microXchg 2016](http://microxchg.io/2016/) (February 4-5, 2016) Berlin, Germany
-- [2016 UXDEVSummit Conference](http://uxdsummit.com/) (February 4–6, 2016) Fort Lauderdale, FL, USA
-- [Owner Summit](http://bureauofdigital.com/summits/owner/2016/) (February 8–9, 2016) Atlanta, GA, USA
-- [JFokus 2016](http://www.jfokus.se/jfokus/) (February 8–10, 2016) Stockholm, Sweden
 - [Forward 4 – Web Technology Summit](http://forwardjs.com/summit) (February 8–13, 2016) San Francisco, CA, USA 
 - [SustainableUX](http://sustainableux.com/) (February 9, 2016) Online
 - [Barcelona JS february meetup](http://barcelonajs.org/) (February 10, 2016) Barcelona, Spain
@@ -132,6 +118,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [Web Rebels 2016](https://www.webrebels.org/) (June 2–3, 2016) Oslo, Norway
 - [UXSofia 2016](http://www.uxsofia.com/en/) (June 3–5, 2016) Sofia, Bulgaria
 - [UXScotland 2016](http://uxscotland.net/2016/) (June 8–10, 2016) Edinburgh, UK
+- [DinosaurJS](http://dinosaurjs.org/) (June 24, 2016) Denver, Colorado, USA
 - [M-Enabling Summit 2016](http://www.m-enabling.com/) (June 13–14, 2016) Washington, D.C., USA
 - [GoTo Amsterdam 2016](http://gotocon.com/amsterdam-2016/) (June 13–15, 2016) Amsterdam, Netherlands
 - [QCon New York 2016](https://qconnewyork.com/) (June 13–17, 2016) New York City, NY, USA
