@@ -128,6 +128,7 @@ Hosting or know of a conference not included? Submit a PR!
 ## August
 
 - [BrazilJS Conference 2016](http://braziljs.com.br/) (August 19–20, 2016) Porto Alegre, RS, Brazil
+- [JSConf Iceland](https://2016.jsconf.is/) (August 25-26, 2016) Reykjavik, Iceland
 
 # Archives
 
