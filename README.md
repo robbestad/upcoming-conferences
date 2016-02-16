@@ -117,6 +117,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [ReactEurope 2016](https://www.react-europe.org/) (June 2–3, 2016) Paris, France
 - [Web Rebels 2016](https://www.webrebels.org/) (June 2–3, 2016) Oslo, Norway
 - [UXSofia 2016](http://www.uxsofia.com/en/) (June 3–5, 2016) Sofia, Bulgaria
+- [SwissJS 2016](http://www.swissjs.com/) (June 4–5, 2016) Bern, Switzerland
 - [UXScotland 2016](http://uxscotland.net/2016/) (June 8–10, 2016) Edinburgh, UK
 - [DinosaurJS](http://dinosaurjs.org/) (June 24, 2016) Denver, Colorado, USA
 - [M-Enabling Summit 2016](http://www.m-enabling.com/) (June 13–14, 2016) Washington, D.C., USA
