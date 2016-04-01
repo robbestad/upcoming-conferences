@@ -125,6 +125,7 @@ Hosting or know of a conference not included? Submit a PR!
 - [QCon New York 2016](https://qconnewyork.com/) (June 13–17, 2016) New York City, NY, USA
 - [SmashingConf New York 2016](http://smashingconf.com/) (June 14–15, 2016) New York City, NY, USA
 - [FrontEnd Design Conference 2016](http://frontenddesignconference.com/) (June 15–17, 2016) St. Petersburg, FL, USA
+- [NYC Awwwards Conference 2016](http://conference.awwwards.com/nyc-2016/) (June 16–17, 2016) Manhattan, USA
 - [You Gotta Love Frontend 2016](http://yougottalovefrontend.com/) (June 27–28, 2016) Tel Aviv, Israel
 
 ## August
