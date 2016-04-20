@@ -75,12 +75,16 @@ Hosting or know of a conference not included? Submit a PR!
 - [NYC Awwwards Conference 2016](http://conference.awwwards.com/nyc-2016/) (June 16–17, 2016) Manhattan, USA
 - [You Gotta Love Frontend 2016](http://yougottalovefrontend.com/) (June 27–28, 2016) Tel Aviv, Israel
 
-## August
+### July
+
+- [An Event Apart 2016: Washington DC](http://aneventapart.com/event/washington-dc-2016) (July 25-27, 2016) Washington, D.C., USA
+
+### August
 
 - [BrazilJS Conference 2016](http://braziljs.com.br/) (August 19–20, 2016) Porto Alegre, RS, Brazil
 - [JSConf Iceland](https://2016.jsconf.is/) (August 25-26, 2016) Reykjavik, Iceland
 
-## September
+### September
 
 - [Full Stack Fest 2016](https://2016.fullstackfest.com/) (Sept 5-9) Barcelona, Spain
 
