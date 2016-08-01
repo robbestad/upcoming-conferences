@@ -88,6 +88,10 @@ Hosting or know of a conference not included? Submit a PR!
 
 - [Full Stack Fest 2016](https://2016.fullstackfest.com/) (Sept 5-9) Barcelona, Spain
 
+### October
+
+- [PHP Conference 2016 Philippines](http://www.phpconfph.com/) (Oct 13-14) Manila, Philippines
+
 # Archives
 
 ## Recorded conferences
